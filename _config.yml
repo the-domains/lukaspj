@@ -1,0 +1,28 @@
+name: LukasPJ
+favicon: null
+layout_spectrum: 0.5978496137540787
+typography_spectrum: 0.4108582790941
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.777751739602536
+  lightness: 0.7663172958418727
+  saturation: 0.029541745549067855
+  rhythmicContrast: 0.016657550120726228
+purpose: []
